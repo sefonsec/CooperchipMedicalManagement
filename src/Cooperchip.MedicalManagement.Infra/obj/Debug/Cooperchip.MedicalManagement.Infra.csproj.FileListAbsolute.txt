@@ -1,0 +1,14 @@
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Infra\bin\Debug\Cooperchip.MedicalManagement.Infra.dll.config
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Infra\bin\Debug\Cooperchip.MedicalManagement.Infra.dll
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Infra\bin\Debug\Cooperchip.MedicalManagement.Infra.pdb
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Infra\bin\Debug\Cooperchip.MedicalManagement.Domain.dll
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Infra\bin\Debug\EntityFramework.dll
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Infra\bin\Debug\Cooperchip.MedicalManagement.Domain.pdb
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Infra\bin\Debug\EntityFramework.xml
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Infra\obj\Debug\Cooperchip.MedicalManagement.Infra.csprojResolveAssemblyReference.cache
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Infra\obj\Debug\Cooperchip.MedicalManagement.Infra.dll
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Infra\obj\Debug\Cooperchip.MedicalManagement.Infra.pdb
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Infra\obj\Debug\Cooperchip.MedicalManagement.Infra.Migrations.InitialMigration.resources
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Infra\obj\Debug\Cooperchip.MedicalManagement.Infra.csproj.GenerateResource.Cache

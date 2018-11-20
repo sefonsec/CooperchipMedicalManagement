@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{65204163-DB81-430A-922D-345CF3B653FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{8D4788F2-99C6-4747-9BBE-B7E63F81811C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{0485CB1B-44E5-47A9-8C4C-F594E24897FB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{859B3CAF-F667-40C0-89D8-DFA7BFC2DBED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{6F10BD8A-BD0B-4194-A6B3-B1BF4832AF64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cooperchip.MedicalManagement.Web", "src\Cooperchip.MedicalManagement.Web\Cooperchip.MedicalManagement.Web.csproj", "{909799C4-3D2A-41B1-8A9C-1FFD237F7284}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cooperchip.MedicalManagement.Domain", "src\Cooperchip.MedicalManagement.Domain\Cooperchip.MedicalManagement.Domain.csproj", "{77379379-C233-4F79-8194-97CF79FD02F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cooperchip.MedicalManagement.Infra", "src\Cooperchip.MedicalManagement.Infra\Cooperchip.MedicalManagement.Infra.csproj", "{53F44095-51BA-4C7C-BB4A-502065BF0865}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{909799C4-3D2A-41B1-8A9C-1FFD237F7284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{909799C4-3D2A-41B1-8A9C-1FFD237F7284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{909799C4-3D2A-41B1-8A9C-1FFD237F7284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{909799C4-3D2A-41B1-8A9C-1FFD237F7284}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77379379-C233-4F79-8194-97CF79FD02F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77379379-C233-4F79-8194-97CF79FD02F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77379379-C233-4F79-8194-97CF79FD02F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77379379-C233-4F79-8194-97CF79FD02F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53F44095-51BA-4C7C-BB4A-502065BF0865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53F44095-51BA-4C7C-BB4A-502065BF0865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53F44095-51BA-4C7C-BB4A-502065BF0865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53F44095-51BA-4C7C-BB4A-502065BF0865}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{909799C4-3D2A-41B1-8A9C-1FFD237F7284} = {6F10BD8A-BD0B-4194-A6B3-B1BF4832AF64}
+		{77379379-C233-4F79-8194-97CF79FD02F5} = {8D4788F2-99C6-4747-9BBE-B7E63F81811C}
+		{53F44095-51BA-4C7C-BB4A-502065BF0865} = {0485CB1B-44E5-47A9-8C4C-F594E24897FB}
+	EndGlobalSection
+EndGlobal
