@@ -1,18 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace Cooperchip.MedicalManagement.Domain.Entities
 {
     public class Uf
     {
-        public int UfId { get; set; }
+        public int Id { get; set; }
         public string Sigla { get; set; }
         public string Estado { get; set; }
         public int CodigoEstado { get; set; }
 
-        public virtual ICollection<Cidade> Cidade { get; set; }
+        public virtual IEnumerable<Cidade> Cidade { get; set; }
     }
 }

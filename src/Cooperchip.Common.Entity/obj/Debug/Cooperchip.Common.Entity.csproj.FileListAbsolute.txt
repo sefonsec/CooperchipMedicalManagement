@@ -1,0 +1,10 @@
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.Common.Entity\bin\Debug\Cooperchip.Common.Entity.dll.config
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.Common.Entity\bin\Debug\Cooperchip.Common.Entity.dll
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.Common.Entity\bin\Debug\Cooperchip.Common.Entity.pdb
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.Common.Entity\bin\Debug\EntityFramework.dll
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.Common.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.Common.Entity\bin\Debug\EntityFramework.xml
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.Common.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.Common.Entity\obj\Debug\Cooperchip.Common.Entity.csprojResolveAssemblyReference.cache
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.Common.Entity\obj\Debug\Cooperchip.Common.Entity.dll
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.Common.Entity\obj\Debug\Cooperchip.Common.Entity.pdb

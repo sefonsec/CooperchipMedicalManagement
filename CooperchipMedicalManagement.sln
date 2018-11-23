@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cooperchip.MedicalManagemen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cooperchip.MedicalManagement.Infra", "src\Cooperchip.MedicalManagement.Infra\Cooperchip.MedicalManagement.Infra.csproj", "{53F44095-51BA-4C7C-BB4A-502065BF0865}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{7206CC7F-8F6E-4A7C-8648-A608EBE52EE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cooperchip.Common.Entity", "src\Cooperchip.Common.Entity\Cooperchip.Common.Entity.csproj", "{B912F264-0E4C-4C3C-9852-24DCC64EFD6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +41,10 @@ Global
 		{53F44095-51BA-4C7C-BB4A-502065BF0865}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53F44095-51BA-4C7C-BB4A-502065BF0865}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53F44095-51BA-4C7C-BB4A-502065BF0865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B912F264-0E4C-4C3C-9852-24DCC64EFD6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B912F264-0E4C-4C3C-9852-24DCC64EFD6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B912F264-0E4C-4C3C-9852-24DCC64EFD6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B912F264-0E4C-4C3C-9852-24DCC64EFD6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -45,5 +53,9 @@ Global
 		{909799C4-3D2A-41B1-8A9C-1FFD237F7284} = {6F10BD8A-BD0B-4194-A6B3-B1BF4832AF64}
 		{77379379-C233-4F79-8194-97CF79FD02F5} = {8D4788F2-99C6-4747-9BBE-B7E63F81811C}
 		{53F44095-51BA-4C7C-BB4A-502065BF0865} = {0485CB1B-44E5-47A9-8C4C-F594E24897FB}
+		{B912F264-0E4C-4C3C-9852-24DCC64EFD6D} = {7206CC7F-8F6E-4A7C-8648-A608EBE52EE8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29B6D589-489F-4228-9887-8E4D032043F7}
 	EndGlobalSection
 EndGlobal

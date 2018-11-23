@@ -25,6 +25,7 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -44,6 +45,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Microsoft.AI.Agent.Intercept, Version=1.2.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Microsoft.ApplicationInsights.Agent.Intercept.1.2.1\lib\net45\Microsoft.AI.Agent.Intercept.dll</HintPath>
       <Private>True</Private>
@@ -158,7 +167,10 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\BairroController.cs" />
+    <Compile Include="Controllers\CidadeController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\UfController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -206,6 +218,21 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Uf\Create.cshtml" />
+    <Content Include="Views\Uf\Delete.cshtml" />
+    <Content Include="Views\Uf\Details.cshtml" />
+    <Content Include="Views\Uf\Edit.cshtml" />
+    <Content Include="Views\Uf\Index.cshtml" />
+    <Content Include="Views\Bairro\Create.cshtml" />
+    <Content Include="Views\Bairro\Delete.cshtml" />
+    <Content Include="Views\Bairro\Details.cshtml" />
+    <Content Include="Views\Bairro\Edit.cshtml" />
+    <Content Include="Views\Bairro\Index.cshtml" />
+    <Content Include="Views\Cidade\Create.cshtml" />
+    <Content Include="Views\Cidade\Delete.cshtml" />
+    <Content Include="Views\Cidade\Details.cshtml" />
+    <Content Include="Views\Cidade\Edit.cshtml" />
+    <Content Include="Views\Cidade\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -222,6 +249,10 @@
     <ProjectReference Include="..\Cooperchip.MedicalManagement.Domain\Cooperchip.MedicalManagement.Domain.csproj">
       <Project>{77379379-c233-4f79-8194-97cf79fd02f5}</Project>
       <Name>Cooperchip.MedicalManagement.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Cooperchip.MedicalManagement.Infra\Cooperchip.MedicalManagement.Infra.csproj">
+      <Project>{53f44095-51ba-4c7c-bb4a-502065bf0865}</Project>
+      <Name>Cooperchip.MedicalManagement.Infra</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

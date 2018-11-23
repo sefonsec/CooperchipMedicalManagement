@@ -1,5 +1,5 @@
 C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Domain\bin\Debug\Cooperchip.MedicalManagement.Domain.dll
 C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Domain\bin\Debug\Cooperchip.MedicalManagement.Domain.pdb
-C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Domain\obj\Debug\Cooperchip.MedicalManagement.Domain.csprojResolveAssemblyReference.cache
 C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Domain\obj\Debug\Cooperchip.MedicalManagement.Domain.dll
 C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Domain\obj\Debug\Cooperchip.MedicalManagement.Domain.pdb
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Domain\obj\Debug\Cooperchip.MedicalManagement.Domain.csprojResolveAssemblyReference.cache

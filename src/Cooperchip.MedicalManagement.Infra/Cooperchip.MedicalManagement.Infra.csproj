@@ -54,17 +54,30 @@
     <Compile Include="Migrations\201811182108511_InitialMigration.Designer.cs">
       <DependentUpon>201811182108511_InitialMigration.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201811220217185_AddEntityTypeConfigurationWithFluentApi.cs" />
+    <Compile Include="Migrations\201811220217185_AddEntityTypeConfigurationWithFluentApi.Designer.cs">
+      <DependentUpon>201811220217185_AddEntityTypeConfigurationWithFluentApi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201811222208131_AddCooperchipEntityAbstractConfig.cs" />
+    <Compile Include="Migrations\201811222208131_AddCooperchipEntityAbstractConfig.Designer.cs">
+      <DependentUpon>201811222208131_AddCooperchipEntityAbstractConfig.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TypeConfiguration\BairroTypeConfiguration.cs" />
+    <Compile Include="TypeConfiguration\CidadeTypeConfiguration.cs" />
+    <Compile Include="TypeConfiguration\UfTypeConfiguration.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="Entity\" />
-  </ItemGroup>
-  <ItemGroup>
+    <ProjectReference Include="..\Cooperchip.Common.Entity\Cooperchip.Common.Entity.csproj">
+      <Project>{b912f264-0e4c-4c3c-9852-24dcc64efd6d}</Project>
+      <Name>Cooperchip.Common.Entity</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Cooperchip.MedicalManagement.Domain\Cooperchip.MedicalManagement.Domain.csproj">
       <Project>{77379379-c233-4f79-8194-97cf79fd02f5}</Project>
       <Name>Cooperchip.MedicalManagement.Domain</Name>
@@ -73,6 +86,12 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201811182108511_InitialMigration.resx">
       <DependentUpon>201811182108511_InitialMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201811220217185_AddEntityTypeConfigurationWithFluentApi.resx">
+      <DependentUpon>201811220217185_AddEntityTypeConfigurationWithFluentApi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201811222208131_AddCooperchipEntityAbstractConfig.resx">
+      <DependentUpon>201811222208131_AddCooperchipEntityAbstractConfig.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -16,6 +16,9 @@ C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.Medical
 C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Web\bin\Cooperchip.MedicalManagement.Web.pdb
 C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Web\bin\Antlr3.Runtime.dll
 C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Web\bin\Cooperchip.MedicalManagement.Domain.dll
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Web\bin\Cooperchip.MedicalManagement.Infra.dll
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Web\bin\EntityFramework.dll
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Web\bin\EntityFramework.SqlServer.dll
 C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Web\bin\Microsoft.AI.Agent.Intercept.dll
 C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Web\bin\Microsoft.AI.DependencyCollector.dll
 C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Web\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -38,6 +41,9 @@ C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.Medical
 C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Web\bin\System.Web.WebPages.Razor.dll
 C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Web\bin\WebGrease.dll
 C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Web\bin\Cooperchip.MedicalManagement.Domain.pdb
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Web\bin\Cooperchip.MedicalManagement.Infra.pdb
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Web\bin\EntityFramework.xml
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Web\bin\EntityFramework.SqlServer.xml
 C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Web\bin\Microsoft.AI.DependencyCollector.xml
 C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Web\bin\Microsoft.AI.Web.xml
@@ -59,3 +65,5 @@ C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.Medical
 C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Web\obj\Debug\Cooperchip.MedicalManagement.Web.csprojResolveAssemblyReference.cache
 C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Web\obj\Debug\Cooperchip.MedicalManagement.Web.dll
 C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Web\obj\Debug\Cooperchip.MedicalManagement.Web.pdb
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Web\bin\Cooperchip.Common.Entity.dll
+C:\Users\eduardo\source\repos\CooperchipMedicalManagement\src\Cooperchip.MedicalManagement.Web\bin\Cooperchip.Common.Entity.pdb
